@@ -1,1 +1,1 @@
-# picoCTF2018
+# PicoCTF2018 writeups
